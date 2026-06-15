@@ -89,7 +89,9 @@ Bu proje **[Lightning AI](https://lightning.ai)** üzerinde geliştirilmiştir. 
 
 ### 2. Veri Setini Hazırla
 
-Roboflow'dan veri setini `.zip` olarak indir ve Lightning AI Studio'ya yükle. Ardından notebook'ta aşağıdaki kodla çıkar:
+Roboflow'dan çeşitli datasetleri birleştirdiğimiz birleşik datasetimiz büyük olduğundan dolayı githuba atamadık ama aşağıdaki linkten ulaşıp yukarıda belirtilen uygun dosya yapısındaki yerine taşıyın lütfen.
+
+Dataset Linki: https://drive.google.com/file/d/1AmL5-iPQ1Wx9g4TGHMyZs1RcBHtpvI1R/view?usp=sharing
 
 ```python
 import zipfile, os
