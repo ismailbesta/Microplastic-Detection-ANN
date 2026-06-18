@@ -208,6 +208,8 @@ Microplastic-Detection-ANN/
 |Öğrenci No |İsim              | GitHub                         |
 |-------    |------            |--------                        |
 |032490047  |Büşra DERELİ      |https://github.com/Busra-Dereli |
+| 032390093 | Altyn Baktybekova
+
 
 
 ---
