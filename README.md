@@ -205,10 +205,12 @@ Microplastic-Detection-ANN/
 
 ## 👥 Ekip
 
-|Öğrenci No |İsim              | GitHub                         |
-|-------    |------            |--------                        |
-|032490047  |Büşra DERELİ      |https://github.com/Busra-Dereli |
-| 032390093 | Altyn Baktybekova
+|Öğrenci No |İsim              | GitHub                             |
+|-------    |------            |--------                            |
+|032490047  | Büşra DERELİ     |https://github.com/Busra-Dereli     |
+|032390093 | Altyn Baktybekova|https://github.com/altynbaktybekova |
+|032390071  | İsmail Beştaş    |https://github.com/ismailbesta      |
+|032390043  | Berkan KOCAMAN   |https://github.com/berkannkcmn      |
 
 
 
