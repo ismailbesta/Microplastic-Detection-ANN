@@ -205,8 +205,9 @@ Microplastic-Detection-ANN/
 
 ## 👥 Ekip
 
-| İsim | GitHub |
-|------|--------|
+|Öğrenci No |İsim              | GitHub                         |
+|-------    |------            |--------                        |
+|032490047  |Büşra DERELİ      |https://github.com/Busra-Dereli |
 
 
 ---
